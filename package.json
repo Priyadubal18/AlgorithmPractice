@@ -1,0 +1,19 @@
+{
+  "name": "algorithmpractice",
+  "version": "1.0.0",
+  "description": "Algo",
+  "main": "AddTwoNumberLinkList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyadubal18/AlgorithmPractice.git"
+  },
+  "author": "Priya Dubal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyadubal18/AlgorithmPractice/issues"
+  },
+  "homepage": "https://github.com/Priyadubal18/AlgorithmPractice#readme"
+}
